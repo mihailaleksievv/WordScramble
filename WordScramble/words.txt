@@ -1,0 +1,12 @@
+apple
+microsoft
+computer
+keyboard
+monitor
+developer
+programming
+database
+algorithm
+function
+variable
+interface

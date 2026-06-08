@@ -1,0 +1,16 @@
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.IndexForm.resources
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.csproj.GenerateResource.cache
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.AssemblyInfoInputs.cache
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.AssemblyInfo.cs
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.csproj.CoreCompileInputs.cache
+C:\Users\jadni\source\repos\WordScramble\bin\Debug\net8.0-windows\WordScramble.exe
+C:\Users\jadni\source\repos\WordScramble\bin\Debug\net8.0-windows\WordScramble.deps.json
+C:\Users\jadni\source\repos\WordScramble\bin\Debug\net8.0-windows\WordScramble.runtimeconfig.json
+C:\Users\jadni\source\repos\WordScramble\bin\Debug\net8.0-windows\WordScramble.dll
+C:\Users\jadni\source\repos\WordScramble\bin\Debug\net8.0-windows\WordScramble.pdb
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.dll
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\refint\WordScramble.dll
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.pdb
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\WordScramble.genruntimeconfig.cache
+C:\Users\jadni\source\repos\WordScramble\obj\Debug\net8.0-windows\ref\WordScramble.dll

@@ -1,0 +1,6 @@
+﻿apple
+microsoft
+computer
+keyboard
+monitor
+developer
